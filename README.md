@@ -15,6 +15,7 @@ npm run dev
 # API Keys
 
 This project uses resend (https://resend.com/) to handle sending emails from the contact form, which requires an API key. When developing locally, place the API key in an environment variable file named `.env.local` in the root directory and store the API key inside a variable named `RESEND_API_KEY=`. Subsequent configuration files related to resend are stored inside the directory `/lib/resend` in the source code.
+der der der
 
 # Project Structure
 
